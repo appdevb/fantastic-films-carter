@@ -13,5 +13,6 @@
 
 # Preview
 
-!["Fantastic Films Carter React Web App With TheMoviesDB API"](https://fantastic-films-carter.herokuapp.com/g "Fantastic Films Carter React Web App With TheMoviesDB API")
+!["Fantastic Films Carter React Web App With TheMoviesDB API"]
+https://fantastic-films-carter.herokuapp.com/
 
