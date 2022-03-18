@@ -91,6 +91,9 @@ const HeroSlideItem = props => {
                     <h2 className="title">{item.title}</h2>
                     <div className="overview">{item.overview}</div>
                     <div className="btns">
+                    <OutlineButton onClick={() => hisrory.push('/movie/search/cars')}>
+                            Browse Films
+                        </OutlineButton>
                         <Button onClick={() => hisrory.push('/movie/' + item.id)}>
                             Watch now
                         </Button>
